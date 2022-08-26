@@ -1,4 +1,4 @@
-#/bin/bash
+#!/bin/bash
 ## This is a 256-colors test script,
 ## Writen by callcz 20220730.
 #  Options :
